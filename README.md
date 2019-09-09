@@ -1,5 +1,5 @@
 This is simple betting rock-paper-scissors game
-made for APCS class.
+made with basic coding skills.
 
 There are two ideas to this basic game:
 1. Have fun, play the actual game
